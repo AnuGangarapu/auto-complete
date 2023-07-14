@@ -10,6 +10,14 @@ function App() {
       <div>
          <AutoComplete option={states}   add={false} variant="outlined"  label="State"/>
           <AutoComplete option={countries} add={true} placeholder={"Select a Country"}  variant="standard" />
+          <AutoComplete option={states}   add={false} variant="outlined"  label="State"/>
+          <AutoComplete option={countries} add={true} placeholder={"Select a Country"}  variant="standard" />
+          <AutoComplete option={states}   add={false} variant="outlined"  label="State"/>
+          <AutoComplete option={countries} add={true} placeholder={"Select a Country"}  variant="standard" />
+          <AutoComplete option={states}   add={false} variant="outlined"  label="State"/>
+          <AutoComplete option={countries} add={true} placeholder={"Select a Country"}  variant="standard" />
+          <AutoComplete option={states}   add={false} variant="outlined"  label="State"/>
+          <AutoComplete option={countries} add={true} placeholder={"Select a Country"}  variant="standard" />
         </div>
     
      
